@@ -50,15 +50,15 @@ pip install cogclassifier
 ***
 ## Additional Figures for COG Classifier
 
-### Created by the R-script: ***02_2_filterScoary.R***
+### Created by the R-script: ***scoaryPieChartGen.R***
 
 1. Open R-studio on your desktop computer
 2. Import the "COGclassifier" output TSV (classifier_result.tsv) onto your desktop computer.
-3. Open the R-script "02_2_filterScoary.R" in R-studio (or base-R program).
+3. Open the R-script "scoaryPieChartGen.R" in R-studio (or base-R program).
 4. Check that the "ggplot2" R-package is installed and active (see script comments)
 
     - ggplot2 is required by the script
 
-5. Add the path of the "classifier_result.tsv" to the R-script (02_2_filterScoary.R) as input.
-6. Run the "02_2_filterScoary.R"
+5. Add the path of the "classifier_result.tsv" to the R-script (scoaryPieChartGen.R) as input.
+6. Run the "scoaryPieChartGen.R"
 7. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
