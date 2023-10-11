@@ -67,9 +67,7 @@ pip install cogclassifier
 ## Examples
 
 ### Pie Chart output
-![classifier_result_pie3](https://github.com/pworden/COGclassifier/assets/92079307/d7039e15-7131-4e36-836e-b505f1dc3677)
+<kbd><img src='https://github.com/pworden/COGclassifier/assets/92079307/d7039e15-7131-4e36-836e-b505f1dc3677' alt="COGclassifier_Pie" style="border: 5px solid black"></kbd>
 
-### Bar chart output
-![classifier_result_bar3](https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d)
-
-<kbd><img src='https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d' alt="COGclassifier" style="border: 5px solid black"></kbd>
+### Bar Chart output
+<kbd><img src='https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d' alt="COGclassifier_Bar" style="border: 5px solid black"></kbd>
