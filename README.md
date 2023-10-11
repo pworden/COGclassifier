@@ -65,7 +65,8 @@ pip install cogclassifier
 8. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
 
 ### Pie Chart output
-![classifier_result_pie](https://github.com/pworden/COGclassifier/assets/92079307/7ad2c829-5b81-4c88-807c-5660d23ecfa7)
+![classifier_result_pie2](https://github.com/pworden/COGclassifier/assets/92079307/d34c189d-2193-4378-b51c-48e46b195ea4)
 
 ### Bar chart output
-![classifier_result_bar](https://github.com/pworden/COGclassifier/assets/92079307/ef849cb2-3065-4dae-9166-de8301edd53e)
+![classifier_result_bar2](https://github.com/pworden/COGclassifier/assets/92079307/bc25fea4-b27a-439f-b43d-08f69255896f)
+
