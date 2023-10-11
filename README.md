@@ -61,5 +61,5 @@ pip install cogclassifier
 
 5. Add the path of the "classifier_result.tsv" to the R-script (scoaryPieChartGen.R) as input.
 6. Run the "scoaryPieChartGen.R"
-    - This script will generate 1 piechart and 1 barchart in PDF format
+    - This script will generate 1 pie-chart and 1 bar-plot in PDF format
 8. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
