@@ -62,7 +62,3 @@ pip install cogclassifier
 5. Add the path of the "classifier_result.tsv" to the R-script (02_2_filterScoary.R) as input.
 6. Run the "02_2_filterScoary.R"
 7. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
-
-6. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
-
-
