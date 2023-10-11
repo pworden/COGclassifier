@@ -47,8 +47,22 @@ pip install cogclassifier
     outputDir="/shared/homes/118623/bee_project/cogclassifier/P_larvae_10-10-23"
     ```
 
-2. Save the changes and run the **cogClassifier.sh** script
-3. Results from cogClassifier will be in the output folder defined by the user
+***
+## Additional Figures for COG Classifier
 
+### Created by the R-script: ***02_2_filterScoary.R***
+
+1. Open R-studio on your desktop computer
+2. Import the "COGclassifier" output TSV (classifier_result.tsv) onto your desktop computer.
+3. Open the R-script "02_2_filterScoary.R" in R-studio (or base-R program).
+4. Check that the "ggplot2" R-package is installed and active (see script comments)
+
+    - ggplot2 is required by the script
+
+5. Add the path of the "classifier_result.tsv" to the R-script (02_2_filterScoary.R) as input.
+6. Run the "02_2_filterScoary.R"
+7. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
+
+6. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
 
 
