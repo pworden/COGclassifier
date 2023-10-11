@@ -72,5 +72,5 @@ pip install cogclassifier
 ### Bar chart output
 ![classifier_result_bar3](https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d)
 
-<img src='https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d' alt="pic" style="border: 2px solid black">
+<img src='https://github.com/pworden/COGclassifier/assets/92079307/3cd36043-10a6-4aa0-864a-143b456f3a0d' alt="COGclassifier" style="border: 5px solid black">
 
