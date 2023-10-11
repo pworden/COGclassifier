@@ -64,7 +64,8 @@ pip install cogclassifier
     - This script will generate 1 pie-chart and 1 bar-plot in PDF format
 8. The bar-plot and pie-chart PDFs will be saved in the same directory as the input TSV.
 
+### Pie Chart output
 ![classifier_result_pie](https://github.com/pworden/COGclassifier/assets/92079307/7ad2c829-5b81-4c88-807c-5660d23ecfa7)
 
-
+### Bar chart output
 ![classifier_result_bar](https://github.com/pworden/COGclassifier/assets/92079307/ef849cb2-3065-4dae-9166-de8301edd53e)
